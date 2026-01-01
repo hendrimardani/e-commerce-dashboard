@@ -11,7 +11,7 @@ DATA_DIR = script_dir
 products_order_items_df = pd.read_csv(os.path.join(DATA_DIR, "products_order_items_df.csv"))
 customers_orders_order_payments_df = pd.read_csv(os.path.join(DATA_DIR, "customers_orders_order_payments_df.csv"))
 customers_orders_order_items_df = pd.read_csv(os.path.join(DATA_DIR, "customers_orders_order_items_df.csv"))
-rfm_df = pd.read_csv("rfm_df.csv")
+rfm_df = pd.read_csv(os.path.join(DATA_DIR, "rfm_df.csv"))
 
 print(f"Product Order Item :")
 products_order_items_df.info()
