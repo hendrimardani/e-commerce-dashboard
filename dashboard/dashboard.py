@@ -1,16 +1,16 @@
 import streamlit as st
 import pandas as pd
-import plotly.express as px
 import os
 from utils import plot_bar_chart
 
 st.set_page_config(page_title="E-Commerce Dashboard", layout="wide")
 script_dir = os.path.dirname(os.path.abspath(__file__))
+DATA_DIR = script_dir
 
 
-products_order_items_df = pd.read_csv("products_order_items_df.csv")
-customers_orders_order_payments_df = pd.read_csv("customers_orders_order_payments_df.csv")
-customers_orders_order_items_df = pd.read_csv("customers_orders_order_items_df.csv")
+products_order_items_df = pd.read_csv(os.path.join(DATA_DIR, "products_order_items_df.csv"))
+customers_orders_order_payments_df = pd.read_csv(os.path.join(DATA_DIR, "customers_orders_order_payments_df.csv"))
+customers_orders_order_items_df = pd.read_csv(os.path.join(DATA_DIR, "customers_orders_order_items_df.csv"))
 rfm_df = pd.read_csv("rfm_df.csv")
 
 print(f"Product Order Item :")
