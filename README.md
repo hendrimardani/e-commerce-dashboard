@@ -1,5 +1,11 @@
 Proyek ini menggunakan dataset publik e-commerce di kaggle dan sudah deploy menggunakan streamlit sebagai dashboard yang interaktif.
 
+## Cara Menjalankan Proyek Dashboard Streamlit
+
+```
+streamlit run dashboard.py
+```
+
 ## Conclusion
 
 ### Pertanyaan 1: Produk apa yang paling banyak dan sedikit terjual ?
