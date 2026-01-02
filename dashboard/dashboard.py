@@ -147,4 +147,3 @@ plot_bar_chart(
 )
 
 st.markdown("---")
-st.caption("Dashboard Created with Streamlit & Plotly")
