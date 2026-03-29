@@ -139,34 +139,35 @@ https://bxeukn9nkn3yrpp66ukzhh.streamlit.app/
 ## Kesimpulan
 
 ### Pertanyaan 1: Produk apa yang paling banyak dan sedikit terjual ?
-<img width="876" height="470" alt="image" src="https://github.com/user-attachments/assets/e5a20e8f-19d0-4f10-bea5-aaefc498e844" />
+<img width="1158" height="382" alt="image" src="https://github.com/user-attachments/assets/6416b9a8-4dbf-4629-8e5e-4d9f86937c16" />
+<img width="1154" height="358" alt="image" src="https://github.com/user-attachments/assets/53a8d0e4-733a-4263-80d4-95eea5df601b" />
 
 **Insight:**
 - Kategori produk terlaris ada di kategori produk tempat tidur, sedangkan kategori produk keamanan dan layanan berada di produk terendah, ini berarti segmentasi pelanggan kita dominan belanja kategori peralatan tempat tidur dibandingkan mementingkan peralatan keamanan. Karena itu produk kategori peralatan keamanan kita bisa lakukan promosi besar-besaran agar produk ini banyak terjual, misalnya dengan menambahkan inovasi pada produk keamanan ini berbasis teknologi yang canggih ataupun melakukan diskon.
 
 ### Pertanyaan 2: Wilayah mana yang paling menguntungkan perusahaan dan paling sering melakukan transaksi ?
-<img width="1738" height="502" alt="image" src="https://github.com/user-attachments/assets/2075b378-9339-46ff-b0b4-5f5781518057" />
+<img width="1155" height="433" alt="image" src="https://github.com/user-attachments/assets/f261ee6c-8821-45eb-a51f-99ea90ad27f0" />
 
 **Insight:**
 - Pelanggan didominasi oleh wilayah SP yang melonjak tinggi dibandingkan wilayah lainnya, hampir 4 kali lipat dari wilayah RJ. Selain mendominasi Wilayah SP juga menunjukan pendapatan yang paling menguntungkan bagi perusahaan
 - Pendapatan terendah didominasi oleh wilayah RR. Ini berarti wilayah RR mungkin pelosok dan jauh dari kota ataupun UMR yang sangat minim sehingga lebih mementingkan kebutuhan pokok dibandingkan belanja
 
 ### Pertanyaan 3: Kapan terakhir pelanggan melakukan transaksi ? (Recency)
-<img width="846" height="467" alt="image" src="https://github.com/user-attachments/assets/e0bcff50-4892-4671-928f-2cf67a206380" />
-<img width="860" height="499" alt="image" src="https://github.com/user-attachments/assets/68447e15-f74a-400d-bd3e-a3e84bd60db0" />
+<img width="1156" height="348" alt="image" src="https://github.com/user-attachments/assets/f9d9c1cf-9a9b-4477-bf8c-04f7cb8ec003" />
+<img width="1154" height="350" alt="image" src="https://github.com/user-attachments/assets/18bbe559-01ec-4dac-b678-58430b831915" />
 
 **Insight:**
 - Pelanggan 4a7d paling sering melakukan transaksi (langganan), sedangkan pelanggan 08c5 justru jarang melakukan transaksi ini berarti pelanggan 08c5 akan mengalami pemberhentian langganan (churn) solusi dari perspektif perusahaan bisa melakukan promosi besar-besaran pada pelanggan tersebut tujuannya untuk menghindari berhentinya langganan dan kembali menjadi aktif transaksi.
 
 ### Pertanyaan 4 : Seberapa sering seorang pelanggan melakukan transaksi ? (Frequency)
-<img width="856" height="492" alt="image" src="https://github.com/user-attachments/assets/458aac02-b416-4bb0-b240-e6c5663ce967" />
-<img width="850" height="486" alt="image" src="https://github.com/user-attachments/assets/a03ed8a8-fd99-4796-bd9c-2eac9d5f1089" />
+<img width="1157" height="348" alt="image" src="https://github.com/user-attachments/assets/912b69eb-f1c9-44a9-9f4a-c4c58395ec8d" />
 
 **Insight:**
 - Pada Hasil visualisasi diatas, seditdaknya pelanggan memilki transaksi 1 kali baik pelanggan langganan baik pelanggan yang sering transaksi ataupun yang jarang transaksi
 
 ### Pertanyaan 5: Berapa banyak uang yang dihabiskan pelanggan dalam beberapa bulan terakhir ? (Monetary)
-<img width="844" height="454" alt="image" src="https://github.com/user-attachments/assets/edc4dbdb-b3e5-407b-be60-86916a0ca5a9" />
+<img width="1153" height="344" alt="image" src="https://github.com/user-attachments/assets/cb0f31c2-ad7e-4cd7-b09e-4b5cdbfbe92a" />
+<img width="1159" height="351" alt="image" src="https://github.com/user-attachments/assets/c176b470-ee3e-473e-b087-92d2c8f659ec" />
 
 **Insight:**
 
