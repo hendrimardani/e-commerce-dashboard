@@ -171,4 +171,4 @@ https://bxeukn9nkn3yrpp66ukzhh.streamlit.app/
 
 **Insight:**
 
-- Pelanggan 1617 termasuk pelanggan yang paling menguntungkan bagi perusahaan, sedangkan pelanggan 9f9d dan 161d pelanggan yang pendapatannya paling rendah bagi perusahaan, ini mungkin disebabkan karena pelanggan 9f9d dan pelanggan 161d memiliki pendapatan UMR atau bahkan dibawah UMR yang hanya cukup unuk memenuhi kebutuhan pokok saja dibandingkan membeli barang baru.
+- Pelanggan 1617 termasuk pelanggan yang paling menguntungkan bagi perusahaan, sedangkan pelanggan 9f9d dan 161b pelanggan yang pendapatannya paling rendah bagi perusahaan, ini mungkin disebabkan karena pelanggan 9f9d dan pelanggan 161b memiliki pendapatan UMR atau bahkan dibawah UMR yang hanya cukup unuk memenuhi kebutuhan pokok saja dibandingkan membeli barang baru.
